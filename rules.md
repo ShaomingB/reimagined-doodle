@@ -18,6 +18,7 @@ Try to get at least two team members meeting up in person per week to discuss pr
 
 
 ## How will will communicate difficulties with a task assigned to us
+Encourage pair programming on more difficult tasks.
 
 
 
