@@ -56,8 +56,8 @@ Input would require the serial number of the item.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+ItemNode: Will include serial number as key and other values such as inventory, price, and source company.
+InventoryDB: Will implement a hash table that looks up items based on serial numbers.
 
 Name each interface or class and briefly describe its function or purpose.
 
