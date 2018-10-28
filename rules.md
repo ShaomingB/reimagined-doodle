@@ -27,6 +27,6 @@ Each group member should finish their assigned parts by an agreed upon deadline.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Each Monday communicate with the group so everyone knows upcoming due dates and their responsibilities to get work done. 
 
 
