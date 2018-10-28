@@ -15,15 +15,15 @@ and missed deadlines.
 ## How will we will track progress (and follow-up) on completion of tasks
 Create a GroupMe and keep in contact.
 Try to get at least two team members meeting up in person per week to discuss progress.
-
+Notify other group members if you are unable to meet at the specified time.
 
 ## How will will communicate difficulties with a task assigned to us
 Encourage pair programming on more difficult tasks.
-
+Review each others work throughout the week.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Each group member should finish their assigned parts by an agreed upon deadline. We will try the github projects tool to keep track of things that are in progress/done.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
