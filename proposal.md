@@ -30,7 +30,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
+The problem we are solving is inventory managment for a medium sized store. Using our program employees can view how much inventory is in stock and search for items.
+
 Describe at a high level a program that could solve that problem.
+To solve this problem 
 
 ## Questions to answer for Exercise #2
 
@@ -42,6 +45,7 @@ InventoryTracker
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 Output would include how much of the item the store has on hand.
 
+The output would be a list of information for the item based of the serial number. Outputs would include name, description of item, amount in storage, amount in front of store, price per item, and brand of item.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 Input would require the serial number of the item.
