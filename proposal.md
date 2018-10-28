@@ -43,6 +43,7 @@ InventoryTracker
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
 Output would include how much of the item the store has on hand.
 
 The output would be a list of information for the item based of the serial number. Outputs would include name, description of item, amount in storage, amount in front of store, price per item, and brand of item.
@@ -56,6 +57,7 @@ Input would require the serial number of the item.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+
 ItemNode: Will include serial number as key and other values such as inventory, price, and source company.
 InventoryDB: Will implement a hash table that looks up items based on serial numbers.
 
