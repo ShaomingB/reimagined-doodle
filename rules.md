@@ -13,7 +13,8 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Create a GroupMe and keep in contact.
+Try to get at least two team members meeting up in person per week to discuss progress.
 
 
 ## How will will communicate difficulties with a task assigned to us
