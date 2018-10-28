@@ -54,6 +54,8 @@ Input would require the serial number of the item.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+There would include a login menu, then separate menus for managers and employees. Managers would be able to search and update items, employees would be able to just search items.
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
