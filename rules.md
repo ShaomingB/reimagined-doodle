@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+Every Tuesday and Thursday afternoon after lecture, we shall meet and have a small dicsuession
+about what to do next, as well as assigning tasks. for small problems,we should communicate via email
 
 ## How will we will track progress (and follow-up) on completion of tasks
 Create a GroupMe and keep in contact.
